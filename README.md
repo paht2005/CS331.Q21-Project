@@ -6,8 +6,8 @@
 
 <h1 align="center"><b>Zero-shot Object Counting with Good Exemplars</b></h1>
 <h3 align="center">Enhanced with Rich Prompts and YOLO-World</h3>
-<h4 align="center">CS431.Q22 – Deep Learning and Applications</h4>
-<h4 align="center">Instructor: PhD. Nguyen Vinh Tiep</h4>
+<h4 align="center">CS331.Q21 – Advanced Computer Vision</h4>
+<h4 align="center">Instructor: PhD. Mai Tien Dung</h4>
 
 
 <p align="center">
@@ -51,7 +51,7 @@ YOLO-World weights) are hosted **outside Git** to keep the repository under GitH
 
 ## Team Information
 
-**Instructor:** PhD. Nguyen Vinh Tiep
+**Instructor:** PhD. Mai Tien Dung
 
 | No. | Student ID | Full Name        | Role   | Github                                                   | Email                   |
 |----:|:----------:|------------------|--------|----------------------------------------------------------|-------------------------|
@@ -379,8 +379,8 @@ The project follows the report:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/paht2005/CS431.Q22_Zero-shot-Object-Coutning-with-Good-Examplers.git
-cd CS431.Q22_Zero-shot-Object-Coutning-with-Good-Examplers
+git clone https://github.com/paht2005/CS331.Q21-Project.git
+cd CS331.Q21-Project
 ```
 
 2. **Create and activate a virtual environment (recommended)**
@@ -603,7 +603,7 @@ Future directions:
 
 ## **License**
 This project is developed for **academic purposes** under the course  
-**CS431.Q22 – Deep Learning and Applications** at the **University of Information Technology (UIT)**.
+**CS331.Q21 – Advanced Computer Vision** at the **University of Information Technology (UIT)**.
 
 Released under the **MIT License**.
 See the [LICENSE.txt](./LICENSE.txt) file for details.

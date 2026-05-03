@@ -30,6 +30,10 @@ logs/
 *.ckpt
 *.onnx
 
+# Local GroundingDINO weights (keep folder placeholder only)
+code/source-code/GroundingDINO/weights/*
+!code/source-code/GroundingDINO/weights/.gitkeep
+
 # Outputs and generated visualizations
 code/source-code/output/
 code/source-code/output_transfer/

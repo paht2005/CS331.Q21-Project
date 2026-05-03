@@ -97,13 +97,15 @@ YOLO-World weights) are hosted **outside Git** to keep the repository under GitH
 ## **Repository Structure**
 
 ```text
-cs431-zero-shot-object-counting-with-good-examplers/
+CS331.Q21-Project/
 ├── README.md                 # Main project documentation (this file)
 ├── Makefile                  # Top-level build/run shortcuts (make help)
 ├── LICENSE                   # MIT License
 ├── requirements.txt          # Root-level Python dependencies
 ├── env.template              # Environment variable template (.env)
 │
+├── demo/                     # demo section
+|
 ├── code/                     # Main implementation
 │   ├── README.md
 │   └── source-code/          # VA-Count + Rich Prompt + YOLO-World
@@ -147,7 +149,7 @@ cs431-zero-shot-object-counting-with-good-examplers/
 │   ├── CONTRIBUTIONS.md       # Per-member contribution split
 │   ├── RESULTS.md             # Numerical results & provenance
 │   ├── report/                # LaTeX report → Report.pdf
-│   ├── cs338-slide/           # LaTeX presentation slides
+│   ├── slide/           # LaTeX presentation slides
 │   └── references/            # Reference materials
 │
 ├── images/                    # Images for GitHub (thumbnails, screenshots)
@@ -614,7 +616,6 @@ See the [LICENSE.txt](./LICENSE.txt) file for details.
   — 26-page bilingual write-up with full methodology, tables and failure
   analysis. Build instructions: [`docs/report/README.md`](docs/report/README.md).
 - Numerical results & provenance: [`docs/RESULTS.md`](docs/RESULTS.md).
-- Per-member contributions: [`docs/CONTRIBUTIONS.md`](docs/CONTRIBUTIONS.md).
 - Source-code level instructions: [`code/source-code/README.md`](code/source-code/README.md).
 - Figure provenance for the LaTeX report:
   [`docs/report/figures/README.md`](docs/report/figures/README.md).

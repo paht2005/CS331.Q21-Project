@@ -7,11 +7,12 @@ The same breakdown also appears as Table `tab:phan_cong` in
 
 ## Team
 
-| No. | Student ID | Full Name        | Role        | GitHub                                               | Email                       |
-|----:|:----------:|------------------|-------------|------------------------------------------------------|-----------------------------|
-| 1   | 23521143   | Nguyen Cong Phat | Leader      | [paht2005](https://github.com/paht2005)              | 23521143@gm.uit.edu.vn      |
-| 2   | 23520158   | Mai Thai Binh    | Member      | [maibinhkznk209](https://github.com/maibinhkznk209/) | 23520158@gm.uit.edu.vn      |
-| 3   | 23520213   | Vu Viet Cuong    | Member      | [Kun05-AI](https://github.com/Kun05-AI)              | 23520213@gm.uit.edu.vn      |
+| No. | Student ID | Full Name        | Role   | Github                                                   | Email                   |
+|----:|:----------:|------------------|--------|----------------------------------------------------------|-------------------------|
+| 1   | 23521143   | Nguyen Cong Phat | Leader | [paht2005](https://github.com/paht2005) (primary account), [phatcnguyenKMS](https://github.com/phatcnguyenKMS) (secondary account)| 23521143@gm.uit.edu.vn |
+| 2   | 23521168   | Nguyen Le Phong  | Member | [nguyenlephong](https://github.com/nguyenlephong)        | 23521168@gm.uit.edu.vn |
+| 3   | 23520213   | Vu Viet Cuong    | Member | [Kun05-AI](https://github.com/Kun05-AI)                  | 23520213@gm.uit.edu.vn |
+
 
 ## Contribution split
 

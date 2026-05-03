@@ -7,6 +7,8 @@
 <h1 align="center"><b>Zero-shot Object Counting with Good Exemplars</b></h1>
 <h3 align="center">Enhanced with Rich Prompts and YOLO-World</h3>
 <h4 align="center">CS431.Q22 – Deep Learning and Applications</h4>
+<h4 align="center">Instructor: PhD. Nguyen Vinh Tiep</h4>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +55,7 @@ YOLO-World weights) are hosted **outside Git** to keep the repository under GitH
 
 | No. | Student ID | Full Name        | Role   | Github                                                   | Email                   |
 |----:|:----------:|------------------|--------|----------------------------------------------------------|-------------------------|
-| 1   | 23521143   | Nguyen Cong Phat | Leader | [paht2005](https://github.com/paht2005), [phatcnguyenKMS](https://github.com/phatcnguyenKMS) | 23521143@gm.uit.edu.vn |
+| 1   | 23521143   | Nguyen Cong Phat | Leader | [paht2005](https://github.com/paht2005) (primary account), [phatcnguyenKMS](https://github.com/phatcnguyenKMS) (secondary account)| 23521143@gm.uit.edu.vn |
 | 2   | 23521168   | Nguyen Le Phong  | Member | [nguyenlephong](https://github.com/nguyenlephong)        | 23521168@gm.uit.edu.vn |
 | 3   | 23520213   | Vu Viet Cuong    | Member | [Kun05-AI](https://github.com/Kun05-AI)                  | 23520213@gm.uit.edu.vn |
 

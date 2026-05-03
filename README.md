@@ -6,7 +6,7 @@
 
 <h1 align="center"><b>Zero-shot Object Counting with Good Exemplars</b></h1>
 <h3 align="center">Enhanced with Rich Prompts and YOLO-World</h3>
-<h4 align="center">CS331.Q21 – Advanced Computer Vision</h4>
+<h4 align="center">CS331.Q21 - Advanced Computer Vision</h4>
 <h4 align="center">Instructor: PhD. Mai Tien Dung</h4>
 
 
@@ -603,7 +603,7 @@ Future directions:
 
 ## **License**
 This project is developed for **academic purposes** under the course  
-**CS331.Q21 – Advanced Computer Vision** at the **University of Information Technology (UIT)**.
+**CS331.Q21 - Advanced Computer Vision** at the **University of Information Technology (UIT)**.
 
 Released under the **MIT License**.
 See the [LICENSE.txt](./LICENSE.txt) file for details.
